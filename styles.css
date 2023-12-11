@@ -1,0 +1,23 @@
+/* first box */
+.box1 {
+background-color: #f4cbc6;
+border: 5px solid #ada8b6;
+margin: 10px 600px;
+padding: 100px;
+}
+
+/* second box */
+.box2 {
+background-color: #ffeedb;
+border: 5px solid #a49cb4;
+margin: 10px 700px;
+padding: 100px;
+}
+
+/* third box */
+.box3 {
+background-color: #acbfa4;
+border: 5px solid #9589aa;
+margin: 10px 800px;
+padding: 100px;
+}
